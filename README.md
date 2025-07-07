@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<h4 align="left">🏴‍☠️ Ahoy, I’m S.rahman 🚀<br>💻 Developer | Problem Solver | Tech Explorer<br>📜 Writing my Code Saga, one commit at a time<br><br>Hi there! I'm a passionate programmer and problem solver on a mission to master coding and explore the world of technology. I’ve been involved with tech since childhood, and now I’m focusing on enhancing my skills in programming, data structures, algorithms, web development, and ethical hacking. My journey is all about continuous learning and pushing boundaries.<br><br>Currently, I am diving deep into Python, aiming to master it from the basics to advanced topics like Object-Oriented Programming, Stacks, and Queues. After that, I plan to move onto C++ for competitive programming. I’m also exploring JavaScript for backend web development and learning about blockchain development as a side project.</h4>
+<h4 align="left">🏴‍☠️ Ahoy, I’m S.rahman 🚀<br>💻 Developer | Problem Solver | Tech Explorer<br>📜 Writing my Code Saga, one commit at a time<br><br>Hi there! I'm a passionate programmer and problem solver on a mission to master coding and explore the world of technology. I’ve been involved with tech since childhood, and now I’m focusing on enhancing my skills in programming, data structures, algorithms, web development, and ethical hacking. My journey is all about continuous learning and pushing boundaries.<br><br>Currently, I am diving deep into Python, aiming to master it from the basics to advanced topics like Object-Oriented Programming, Stacks, and Queues.</h4>
 
 ###
 <picture>
